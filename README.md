@@ -1,2 +1,1 @@
-# BasicC-Programing
-Repository contains code created while learning basic of C# programming..
+Repository contains code created while learning basic of C# (Sharp) programming..
